@@ -1,1 +1,52 @@
+/* Link Colors */
+a:link    { color: blue }
+a:visited { color: purple }
+a:hover   { color: blue }
+a:active  { color: purple}
 
+.text-centered {
+    text-align: center;
+  }
+
+.lightbrown-headerbackground {
+    background-color: #F4A460;
+}
+
+h1 {
+    font-family: Arial, Tahoma, serif;
+    font-size: 50px;
+    color: #87CEFA
+}
+
+header h1 {
+    padding: 25px;
+}
+
+h1 {
+    padding: 25px;
+    margin: 25px;
+}
+
+h2 {
+    font-family: Arial, Tahoma, serif;
+    font-size: 45px;
+}
+
+h3 {
+    font-family: Arial, Tahoma, serif;
+    font-size: 40px;
+}
+
+p {
+    font-family: Arial, Tahoma, serif;
+    font-size: 30px;
+    line-height: 35px;
+}
+
+li {
+    font-size: 30px;
+}
+
+body {
+    background-color: #FFF8DC;
+}
